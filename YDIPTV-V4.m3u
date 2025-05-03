@@ -175,11 +175,11 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="NEWTV",黑莓电影
 http://111.12.102.79:6610/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://upload.112114.xyz/logo/晴彩竞技.png" group-title="NEWTV",晴彩竞技
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://upload.112114.xyz/logo/睛彩竞技.png" group-title="NEWTV",睛彩竞技
 http://111.12.102.79:6610/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://upload.112114.xyz/logo/晴彩篮球1.png" group-title="NEWTV",晴彩篮球
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://upload.112114.xyz/logo/睛彩篮球1.png" group-title="NEWTV",睛彩篮球
 http://111.12.102.79:6610/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="晴彩青少" tvg-name="晴彩青少" tvg-logo="https://upload.112114.xyz/logo/晴彩青少.png" group-title="NEWTV",晴彩青少
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://upload.112114.xyz/logo/睛彩青少.png" group-title="NEWTV",睛彩青少
 http://111.12.102.79:6610/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="少儿动画",CCTV12
 http://111.12.102.79:6610/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
