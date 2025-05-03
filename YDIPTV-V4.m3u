@@ -55,7 +55,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225707/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西语
 http://111.12.102.79:6610/PLTV/77777777/224/3221225875/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/DUAN.png" tvg-id="IPTV5+" tvg-name="都安综合" group-title="卫视",都安综合
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/DUAN.png" tvg-id="tvg-id="IPTV5+" " tvg-name="都安综合" group-title="卫视",都安综合
 https://rtmp.gdlive.gdmain.com/live/lgo97185.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
