@@ -195,9 +195,9 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="少儿动画",优漫卡通
 http://111.12.102.79:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="纪实科技" tvg-name="BRTV纪实科教" tvg-logo="https://upload.112114.xyz/logo/BRTV纪实科教.png" group-title="其他",BRTV纪实科教
+#EXTINF:-1,tvg-id="北京纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://upload.112114.xyz/logo/BRTV纪实科教.png" group-title="其他",BRTV纪实科教
 http://111.12.102.79:6610/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="上海纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="其他",纪实人文
 http://111.12.102.79:6610/PLTV/77777777/224/3221226016/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
 http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
