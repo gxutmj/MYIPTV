@@ -161,11 +161,11 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="NEWTV",NEWTV精品萌宠
 http://111.12.102.79:6610/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="精品搏击" tvg-name="NEWTV精品搏击" tvg-logo="https://upload.112114.xyz/logo/精品搏击.png" group-title="NEWTV",NEWTV精品搏击
+#EXTINF:-1,tvg-id="中国功夫" tvg-name="NEWTV精品搏击" tvg-logo="https://upload.112114.xyz/logo/精品搏击.png" group-title="NEWTV",NEWTV精品搏击
 http://111.12.102.79:6610/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/精品记录.png" group-title="NEWTV",NEWTV精品记录
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/精品记录.png" group-title="NEWTV",NEWTV精品记录
 http://111.12.102.79:6610/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="精品影视" tvg-name="NEWTV精品影视" tvg-logo="https://upload.112114.xyz/logo/精品影视.png" group-title="NEWTV",NEWTV精品影视
+#EXTINF:-1,tvg-id="精品大剧" tvg-name="NEWTV精品影视" tvg-logo="https://upload.112114.xyz/logo/精品影视.png" group-title="NEWTV",NEWTV精品影视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://upload.112114.xyz/logo/惊悚悬疑.png" group-title="NEWTV",NEWTV惊悚悬疑
 http://111.12.102.79:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
