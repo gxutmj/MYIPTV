@@ -133,43 +133,43 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://epg.112114.xyz/logo/欢乐剧场.png" group-title="NEWTV",NEWTV欢乐剧场
+#EXTINF:-1,tvg-id="欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://epg.112114.xyz/logo/欢乐剧场.png" group-title="NEWTV",NEWTV欢乐剧场
 http://111.12.102.79:6610/PLTV/77777777/224/3221226049/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NEWTV",NEWTV家庭剧场
+#EXTINF:-1,tvg-id="家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV家庭剧场.png" group-title="NEWTV",NEWTV家庭剧场
 http://111.12.102.79:6610/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="NEWTV",NEWTV古装剧场
+#EXTINF:-1,tvg-id="古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="NEWTV",NEWTV古装剧场
 http://111.12.102.79:6610/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NEWTV",NEWTV军旅剧场
+#EXTINF:-1,tvg-id="军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NEWTV",NEWTV军旅剧场
 http://111.12.102.79:6610/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.112114.xyz/logo/农业致富.png" group-title="NEWTV",农业致富
 http://111.12.102.79:6610/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NEWTV",NEWTV精品大剧
+#EXTINF:-1,tvg-id="精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NEWTV",NEWTV精品大剧
 http://111.12.102.79:6610/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NEWTV",NEWTV精品体育
+#EXTINF:-1,tvg-id="精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NEWTV",NEWTV精品体育
 http://111.12.102.79:6610/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NEWTV",NEWTV军事评论
+#EXTINF:-1,tvg-id="军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NEWTV",NEWTV军事评论
 http://111.12.102.79:6610/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NEWTV",NEWTV爱情喜剧
+#EXTINF:-1,tvg-id="爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NEWTV",NEWTV爱情喜剧
 http://111.12.102.79:6610/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NEWTV",NEWTV金牌综艺
+#EXTINF:-1,tvg-id="金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV金牌综艺.png" group-title="NEWTV",NEWTV金牌综艺
 http://111.12.102.79:6610/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="NEWTV",NEWTV潮妈辣婆
+#EXTINF:-1,tvg-id="潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://epg.112114.xyz/logo/NEWTV潮妈辣婆.png" group-title="NEWTV",NEWTV潮妈辣婆
 http://111.12.102.79:6610/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="NEWTV",NEWTV炫舞未来
+#EXTINF:-1,tvg-id="炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://epg.112114.xyz/logo/NEWTV炫舞未来.png" group-title="NEWTV",NEWTV炫舞未来
 http://111.12.102.79:6610/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.112114.xyz/logo/NEWTV中国功夫.png" group-title="NEWTV",NEWTV中国功夫
+#EXTINF:-1,tvg-id="中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.112114.xyz/logo/NEWTV中国功夫.png" group-title="NEWTV",NEWTV中国功夫
 http://111.12.102.79:6610/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="NEWTV",NEWTV精品萌宠
+#EXTINF:-1,tvg-id="精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="NEWTV",NEWTV精品萌宠
 http://111.12.102.79:6610/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品搏击" tvg-name="NEWTV精品搏击" tvg-logo="https://upload.112114.xyz/logo/精品搏击.png" group-title="NEWTV",NEWTV精品搏击
+#EXTINF:-1,tvg-id="精品搏击" tvg-name="NEWTV精品搏击" tvg-logo="https://upload.112114.xyz/logo/精品搏击.png" group-title="NEWTV",NEWTV精品搏击
 http://111.12.102.79:6610/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/精品记录.png" group-title="NEWTV",NEWTV精品记录
+#EXTINF:-1,tvg-id="精品记录" tvg-name="NEWTV精品记录" tvg-logo="https://upload.112114.xyz/logo/精品记录.png" group-title="NEWTV",NEWTV精品记录
 http://111.12.102.79:6610/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品影视" tvg-name="NEWTV精品影视" tvg-logo="https://upload.112114.xyz/logo/精品影视.png" group-title="NEWTV",NEWTV精品影视
+#EXTINF:-1,tvg-id="精品影视" tvg-name="NEWTV精品影视" tvg-logo="https://upload.112114.xyz/logo/精品影视.png" group-title="NEWTV",NEWTV精品影视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://upload.112114.xyz/logo/惊悚悬疑.png" group-title="NEWTV",NEWTV惊悚悬疑
+#EXTINF:-1,tvg-id="惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://upload.112114.xyz/logo/惊悚悬疑.png" group-title="NEWTV",NEWTV惊悚悬疑
 http://111.12.102.79:6610/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="NEWTV精品剧场" tvg-name="NEWTV精品剧场" tvg-logo="https://upload.112114.xyz/logo/精品剧场.png" group-title="NEWTV",NEWTV精品剧场
+#EXTINF:-1,tvg-id="精品剧场" tvg-name="NEWTV精品剧场" tvg-logo="https://upload.112114.xyz/logo/精品剧场.png" group-title="NEWTV",NEWTV精品剧场
 http://111.12.102.79:6610/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="NEWTV",CHC动作电影
 http://111.12.102.79:6610/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
