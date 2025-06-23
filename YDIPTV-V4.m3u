@@ -271,18 +271,6 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225863/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225893/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="其他",咪咕综合体育
 http://111.12.102.79:6610/PLTV/77777777/224/3221225896/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV5+" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="其他",直播
-http://111.12.102.79:6610/PLTV/77777777/224/3221225885/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV5+" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="其他",直播
-http://111.12.102.79:6610/PLTV/77777777/224/3221225888/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV5+" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="其他",直播
-http://111.12.102.79:6610/PLTV/77777777/224/3221225891/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV5+" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="其他",直播
-http://111.12.102.79:6610/PLTV/77777777/224/3221225894/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV5+" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="其他",直播
-http://111.12.102.79:6610/PLTV/77777777/224/3221225938/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="IPTV5+" tvg-name="NOW直播台" tvg-logo="https://epg.112114.xyz/logo/NOW直播台.png" group-title="其他",直播
-http://111.12.102.79:6610/PLTV/77777777/224/3221225944/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="IPTV5+" tvg-name="都安综合" tvg-logo="https://upload.112114.xyz/logo/DUAN.png" group-title="备用",都安综合
 http://live.gxrb.com.cn/gx/duan/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="备用",CCTV1
@@ -314,8 +302,6 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="备用",CCTV12
 http://111.12.102.79:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="备用",CCTV13
-http://111.12.102.79:6610/PLTV/77777777/224/3221225759/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="备用",CCTV13
 http://111.12.102.79:6610/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="备用",CCTV14
 http://111.12.102.79:6610/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
@@ -328,19 +314,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1&
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225872/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
-http://111.12.102.79:6610/PLTV/77777777/224/3221225941/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
-http://111.12.102.79:6610/PLTV/77777777/224/3221225953/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
-http://111.12.102.79:6610/PLTV/77777777/224/3221225976/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
-http://111.12.102.79:6610/PLTV/77777777/224/3221225984/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
-http://111.12.102.79:6610/PLTV/77777777/224/3221225987/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="备用",广西卫视
-http://111.12.102.79:6610/PLTV/77777777/224/3221226052/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="备用",北京卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="备用",东方卫视
