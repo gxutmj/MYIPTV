@@ -35,7 +35,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/gxutmj/MYIPTV/refs/heads/main/China-TV-HD-Logo-main/icon/CCTV17.png" group-title="央视",CCTV17
 http://111.12.102.79:6610/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="央视",CCTV高尔夫网球
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/gxutmj/MYIPTV/refs/heads/main/China-TV-HD-Logo-main/icon/CCTV高尔夫网球.png" group-title="央视",CCTV高尔夫网球
 http://111.12.102.79:6610/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
 http://111.12.102.79:6610/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
