@@ -179,7 +179,7 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://upload.112114.xyz/logo/睛彩青少.png" group-title="NEWTV",睛彩青少
 http://111.12.102.79:6610/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/gxutmj/MYIPTV/refs/heads/main/China-TV-HD-Logo-main/icon/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/gxutmj/MYIPTV/refs/heads/main/China-TV-HD-Logo-main/icon/CCTV14.png" group-title="少儿动画",CCTV14
 http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="少儿动画",黑莓动画
 http://111.12.102.79:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
