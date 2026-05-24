@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghproxy.520yun.eu.org/https://raw.githubusercontent.com/gxutmj/MYIPTV/refs/heads/main/China-TV-HD-Logo-main/icon/CCTV1.png" group-title="央视",CCTV1
 http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&amp;IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghproxy.520yun.eu.org/https://raw.githubusercontent.com/gxutmj/MYIPTV/refs/heads/main/China-TV-HD-Logo-main/icon/CCTV2.png" group-title="央视",CCTV2
